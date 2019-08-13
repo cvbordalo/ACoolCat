@@ -1,0 +1,70 @@
+.navbar {
+    background-color: white;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.navbar li {
+    display: inline-block; 
+    padding: 10px 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+}
+.banner {
+    background-color: #4D00FF;
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+    padding: 50px 0
+}
+
+#small-cat {
+    height: 400px;
+    filter: drop-shadow(10px 10px 10px black)
+    
+}
+
+#coolcat {
+    color: #4d00ff;
+    font-size: 120px;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+a.blue {
+    color: blue;
+}
+
+#greets ul {
+    list-style-type: none;
+}
+
+.cat-section {
+    padding: 20px 50px;
+}
+
+li .avatar {
+    padding: 10px;
+}
+
+.avatar {
+    background-image: url('../images/Modern-cool-cat-wear-glasses-wall-painting-print-on-canvas-for-home-decor-oil-painting-arts.jpg');
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 50;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 100%;
+    margin-right: 1rem;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif 
+}
